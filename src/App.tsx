@@ -17,7 +17,7 @@ type Scene =
 
 export default function App() {
     const [scene, setScene] = useState<Scene>("intro");
-    const audioRef = useRef(new Audio("/public/music/Music.mp3"));
+    const audioRef = useRef(new Audio("/music/Music.mp3"));
     const [muted, setMuted] = useState(false);
     const [musicStarted, setMusicStarted] = useState(false);
 

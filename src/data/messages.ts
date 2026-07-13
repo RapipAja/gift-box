@@ -46,7 +46,7 @@ const messages: Message[] = [
         name: "Kai",
         avatar: "/photos/Kai-PP.png",
         message:
-            "Happy Birthday! Semoga semua yang kamu cita-citakan segera terwujud. Tetap semangat ya! ✨",
+            "happyy birthdayy budee rubyy, selamattt ulanggg tahunnn yangg ke 24 yaa budee,semoga di usia yang baru ini, semogaa budee selalu diberikann kebahagiaannn, kesehatannn, dan umurr yangg panjanggg.semogaaa Allah senantiasaaa memberikannn kekuatann dalanm menghadapiii setiappp tantangannn, melimpahkannn rezeki yang halal dan berlimpahhh, serta menghadirkan oranggg-oranggg baikk yangg hadirr di dalamm hidupp budee. tetaplah menjadi pribadi yang baik, rendah hati, dan penuh semangat. semoga hari ini menjadi awal dari tahun yang lebih indah, lebih bermakna, dan penuh dengan momen-momen yang membahagiakannn. selamattt bertambahh usiaa.semoga panjanggg umurrr, sehatt selaluu, suksess dalammm segalaaa urusann, dan selaluuu berada dalam lindungannn Allah. walaupunn budee nyebelinn tapii akuu tetepp sayangg samaa budee loveee uuu budeee ",
     },
 
     {
