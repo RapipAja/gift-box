@@ -19,6 +19,8 @@ export default function Ending() {
 
                 <Typography className="subtitle">
                     we still have something for you ❤️
+                    <br />
+                    WKWKWK 😭👌
                 </Typography>
 
             </Box>
@@ -67,7 +69,7 @@ export default function Ending() {
                     poster="/photos/photo1.png"
                 >
                     <source
-                        src="/video/surprise.mp4"
+                        src="/video/Al-Video2.mp4"
                         type="video/mp4"
                     />
                 </video>
