@@ -71,7 +71,7 @@ const messages: Message[] = [
     {
         id: 6,
         name: "Mey",
-        avatar: "/photos/Mey-PP.png",
+        avatar: "/photos/Mey-PP.jpg",
         message:
             `Halooo, Ka Rubby Happy birthday yaaa!!❤️
 
