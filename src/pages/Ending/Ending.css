@@ -1,0 +1,150 @@
+.ending{
+
+    width:100%;
+
+    min-height:100vh;
+
+    overflow-x:hidden;
+
+    background:linear-gradient(
+        180deg,
+        #FFF8FB,
+        #FFEAF4,
+        #FFFDFD
+    );
+
+}
+
+/* ---------------- */
+
+.hero{
+
+    min-height:70vh;
+
+    display:flex;
+
+    flex-direction:column;
+
+    justify-content:center;
+
+    align-items:center;
+
+    text-align:center;
+
+    padding:40px;
+
+}
+
+.title{
+
+    font-family:"Dancing Script" !important;
+
+    font-size:4rem !important;
+
+    color:#F472B6;
+
+}
+
+.subtitle{
+
+    margin-top:20px !important;
+
+    color:#666;
+
+    font-size:1.2rem !important;
+
+    line-height:2;
+
+}
+
+/* ---------------- */
+
+.photo-area{
+
+    width:70%;
+    max-width:900px;
+
+    margin:auto;
+
+    padding:40px 24px 80px;
+
+    display:flex;
+
+    flex-direction:column;
+
+    gap:32px;
+
+}
+
+.photo{
+
+    width:100%;
+
+    border-radius:24px;
+
+    object-fit:cover;
+
+    box-shadow:
+        0 20px 40px rgba(0,0,0,.12);
+
+}
+
+/* ---------------- */
+
+.video-section{
+
+    max-width:900px;
+
+    margin:auto;
+
+    padding:80px 24px;
+
+}
+
+.video-title{
+
+    text-align:center;
+
+    margin-bottom:30px !important;
+
+    font-size:2rem !important;
+
+    color:#F472B6;
+
+}
+
+.video{
+
+    width:100%;
+
+    border-radius:20px;
+
+}
+
+/* ---------------- */
+
+.footer{
+
+    padding:120px 24px;
+
+    text-align:center;
+
+}
+
+.thanks{
+
+    font-family:"Dancing Script" !important;
+
+    font-size:3rem !important;
+
+    color:#F472B6;
+
+}
+
+.credit{
+
+    margin-top:20px !important;
+
+    color:#888;
+
+}
