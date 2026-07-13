@@ -95,7 +95,7 @@ const messages: Message[] = [
     {
         id: 7,
         name: "Rapip",
-        avatar: "/photos/Rapip-PP.jpeg",
+        avatar: "/photos/Rapip-PP2.png",
         message:
             `Aku rasa semua doa dan harapanku untuk bude sama kayak anak - anak yang lain. 
 
