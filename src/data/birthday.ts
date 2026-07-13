@@ -1,5 +1,5 @@
 const birthday = {
-    name: "Ruby Venita",
+    name: "Rubby Venita",
     nickname: "Ruby",
     age: 24,
     date: "Senin, 13 Juli 2026",
