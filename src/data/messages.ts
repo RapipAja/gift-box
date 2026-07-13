@@ -27,7 +27,7 @@ const messages: Message[] = [
         name: "Al",
         avatar: "/photos/Al-PP.png",
         message:
-            "happy birthday yaa bude, semoga selalu sehat dan panjang umur, wuatb❤️",
+            "happy birthday yaa bude, semoga selalu sehat dan panjang umur, wuatb ❤️",
     },
 
     {
@@ -50,7 +50,11 @@ const messages: Message[] = [
         name: "Cyla",
         avatar: "/photos/Cyla-PP.png",
         message:
-            "Happy Birthday! Semoga semua yang kamu cita-citakan segera terwujud. Tetap semangat ya! ✨",
+            `Selamat ulang tahun, Kak Rubyy Venita sayang! Makasih ya udah selalu jadi kakak perempuan terbaik, pendengar yang baik, dan panutan buat adikmu ini. 
+            
+            Semoga di usia yang baru ini, Kak Rubyy selalu diberi kebahagiaan, kesehatan, dan semua impian Kakak bisa terwujud. 
+            
+            I’m so lucky to have you as my sister. Love you to the moon and back! 💖`,
     },
 
     {
