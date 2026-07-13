@@ -27,7 +27,7 @@ const messages: Message[] = [
         name: "Al",
         avatar: "/photos/Al-PP.png",
         message:
-            "Semoga panjang umur, sehat selalu, dan semoga tahun ini membawa banyak kebahagiaan buat kamu. 💖",
+            "happy birthday yaa bude, semoga selalu sehat dan panjang umur, wuatb❤️",
     },
 
     {
@@ -75,17 +75,17 @@ const messages: Message[] = [
         message:
             `Halooo, Ka Rubby Happy birthday yaaa!!❤️
 
-Selamat ulang tahun yang ke 24 kakaa. Semoga di umur yang baru ini Ka Rubby selalu sehat, panjang umur, rezekinya makin lancar, semua urusannya dipermudah, dan apa pun yang lagi diusahain semoga satu per satu bisa tercapai.
+            Selamat ulang tahun yang ke 24 kakaa. Semoga di umur yang baru ini Ka Rubby selalu sehat, panjang umur, rezekinya makin lancar, semua urusannya dipermudah, dan apa pun yang lagi diusahain semoga satu per satu bisa tercapai.
 
-Semoga tahun ini lebih banyak senyumnya daripada capeknya, lebih banyak bahagianya daripada sedihnya, dan semoga selalu dikelilingi orang-orang yang sayang sama Ka Rubby, kayak akuuu🩷
+            Semoga tahun ini lebih banyak senyumnya daripada capeknya, lebih banyak bahagianya daripada sedihnya, dan semoga selalu dikelilingi orang-orang yang sayang sama Ka Rubby, kayak akuuu🩷
 
-Makasiii juga yaa udah jadi kakak dari kitaa, kakak yang baik dan asik. Semogaa ngga bosen ngadepin adek adek Discord yang kadang suka random dan ngilang yaa🥹 
+            Makasiii juga yaa udah jadi kakak dari kitaa, kakak yang baik dan asik. Semogaa ngga bosen ngadepin adek adek Discord yang kadang suka random dan ngilang yaa🥹 
 
-Terakhir niii, doa yang paling pentingg. Semoga Ka Rubby cepet dipertemuin sama jodoh yang sesuai wishlist. Yang ganteng, berotot, mapan, green flag, penyayang, setia, rajin, humoris, pokoknya paket lengkap deh😋 😋  yang penting bikin Ka Rubby bahagia teruss. Aamiin🤍 
+            Terakhir niii, doa yang paling pentingg. Semoga Ka Rubby cepet dipertemuin sama jodoh yang sesuai wishlist. Yang ganteng, berotot, mapan, green flag, penyayang, setia, rajin, humoris, pokoknya paket lengkap deh😋 😋  yang penting bikin Ka Rubby bahagia teruss. Aamiin🤍 
 
-Udah deh, segitu aja dari aku ya kaa. Sekali lagii, happy birthday yaa. Semoga umur 24 ini jadi tahun yang penuh berkah, penuh kejutan yang baik, dan semoga semua doa yang diucapin hari ini bener-bener terkabul. 
+            Udah deh, segitu aja dari aku ya kaa. Sekali lagii, happy birthday yaa. Semoga umur 24 ini jadi tahun yang penuh berkah, penuh kejutan yang baik, dan semoga semua doa yang diucapin hari ini bener-bener terkabul. 
 
-Have a great day, Kakak cantikkuu🩷🩷🤍🤍`,
+            Have a great day, Kakak cantikkuu🩷🩷🤍🤍`,
     },
 
     {
