@@ -59,7 +59,7 @@ export default function Birthday({
                             color: "#444",
                         }}
                     >
-                        {birthday.name} ❤️
+                        {birthday.name} ❤️ ~ {birthday.age} yo
                     </Typography>
                 </motion.div>
 
@@ -75,6 +75,16 @@ export default function Birthday({
                     <Typography
                         sx={{
                             mt: 4,
+                            color: "#666",
+                            fontSize: "1.1rem",
+                            lineHeight: 1.8,
+                        }}
+                    >
+                        {birthday.date}
+                    </Typography>
+
+                    <Typography
+                        sx={{
                             color: "#666",
                             fontSize: "1.1rem",
                             lineHeight: 1.8,
